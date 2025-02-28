@@ -11,3 +11,6 @@ Change I made to the file.
 print('Hello World')
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
